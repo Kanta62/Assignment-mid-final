@@ -1,0 +1,7 @@
+D:\AIUB\6th Semester\OOP2\University management system\University management system\bin\Debug\University management system.exe.config
+D:\AIUB\6th Semester\OOP2\University management system\University management system\bin\Debug\University management system.exe
+D:\AIUB\6th Semester\OOP2\University management system\University management system\bin\Debug\University management system.pdb
+D:\AIUB\6th Semester\OOP2\University management system\University management system\obj\Debug\University management system.csprojAssemblyReference.cache
+D:\AIUB\6th Semester\OOP2\University management system\University management system\obj\Debug\University management system.csproj.CoreCompileInputs.cache
+D:\AIUB\6th Semester\OOP2\University management system\University management system\obj\Debug\University management system.exe
+D:\AIUB\6th Semester\OOP2\University management system\University management system\obj\Debug\University management system.pdb
