@@ -1,0 +1,13 @@
+D:\Semester\Sixth semester\C#\Kanta lab\Lab kanta\Lab kanta\obj\Debug\netcoreapp3.1\Lab.csprojAssemblyReference.cache
+D:\Semester\Sixth semester\C#\Kanta lab\Lab kanta\Lab kanta\obj\Debug\netcoreapp3.1\Lab.AssemblyInfoInputs.cache
+D:\Semester\Sixth semester\C#\Kanta lab\Lab kanta\Lab kanta\obj\Debug\netcoreapp3.1\Lab.AssemblyInfo.cs
+D:\Semester\Sixth semester\C#\Kanta lab\Lab kanta\Lab kanta\obj\Debug\netcoreapp3.1\Lab.csproj.CoreCompileInputs.cache
+D:\Semester\Sixth semester\C#\Kanta lab\Lab kanta\Lab kanta\bin\Debug\netcoreapp3.1\Lab.exe
+D:\Semester\Sixth semester\C#\Kanta lab\Lab kanta\Lab kanta\bin\Debug\netcoreapp3.1\Lab.deps.json
+D:\Semester\Sixth semester\C#\Kanta lab\Lab kanta\Lab kanta\bin\Debug\netcoreapp3.1\Lab.runtimeconfig.json
+D:\Semester\Sixth semester\C#\Kanta lab\Lab kanta\Lab kanta\bin\Debug\netcoreapp3.1\Lab.runtimeconfig.dev.json
+D:\Semester\Sixth semester\C#\Kanta lab\Lab kanta\Lab kanta\bin\Debug\netcoreapp3.1\Lab.dll
+D:\Semester\Sixth semester\C#\Kanta lab\Lab kanta\Lab kanta\bin\Debug\netcoreapp3.1\Lab.pdb
+D:\Semester\Sixth semester\C#\Kanta lab\Lab kanta\Lab kanta\obj\Debug\netcoreapp3.1\Lab.dll
+D:\Semester\Sixth semester\C#\Kanta lab\Lab kanta\Lab kanta\obj\Debug\netcoreapp3.1\Lab.pdb
+D:\Semester\Sixth semester\C#\Kanta lab\Lab kanta\Lab kanta\obj\Debug\netcoreapp3.1\Lab.genruntimeconfig.cache
